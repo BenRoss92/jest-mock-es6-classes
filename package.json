@@ -1,0 +1,16 @@
+{
+  "name": "mocking-es6-classes",
+  "version": "1.0.0",
+  "description": "Tutorial for mocking ES6 JavaScript classes using Jest - https://jestjs.io/docs/en/es6-class-mocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.2.2",
+    "jest": "^26.0.1"
+  },
+  "dependencies": {}
+}
